@@ -1,0 +1,15 @@
+.add-vet-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.add-vet-form__footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+
+.speciality-multi-select {
+    margin-top: 2rem;
+}
